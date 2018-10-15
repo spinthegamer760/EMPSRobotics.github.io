@@ -1,8 +1,14 @@
-# Epic Pi Bots
+# Epic Pi Bots 
+
+# Overview
 We are the elkins pointe middle school robotics team,
 and this is our website (Mainframe)!
-Our team name is the Epic Pi Bots.
 This site will have updates on what were doing in our team and more.
+
+# Our team
+Sarsour,Ghaleb
+
+Suggs,Malik
 
 # EPMS vs Highschool and other middle schools.
 This year like always, we'll be mostly against high schoolers.
