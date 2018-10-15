@@ -5,7 +5,8 @@ Our team name is the Epic Pi Bots.
 This site will have updates on what were doing in our team and more.
 
 # EPMS vs Highschool and other middle schools.
-This year like always, we'll be mostly against high schoolers. 
+This year like always, we'll be mostly against high schoolers.
+We will also be against middle schoolers but rarely.
 We're are all excited for Rover Ruckus and hope that we will have a great time!
 
 # Online Log
