@@ -6,13 +6,17 @@ and this is our website (Mainframe)!
 This site will have updates on what were doing in our team and more.
 
 # Our team
+# Website owner:
+Patterson,Matt
+# Programmers:
 Sarsour,Ghaleb
-
+Patterson,Matt
+Smith,Charlie
+# Builders
 Suggs,Malik
 
-miles
 
-matt
+
 
 more names and last names coming on 10/16/2018
 
